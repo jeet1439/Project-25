@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+
     const hamburger = document.querySelector(".hamburger");
     const navLinks = document.querySelector(".nav-links");
 
@@ -16,4 +16,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     setInterval(showNextImage, 4000);
-});
+  
